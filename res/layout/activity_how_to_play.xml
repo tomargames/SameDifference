@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffcc"
+    android:orientation="vertical" >
+    
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="10dp" />
+    	<TextView
+            android:id="@+id/how_to_play1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/instructions_1"
+            android:textSize="@dimen/abc_action_bar_title_text_size" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="10dp" />
+        <TextView
+            android:id="@+id/how_to_play2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/instructions_2"
+            android:textSize="@dimen/abc_action_bar_title_text_size" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="10dp" />
+        <TextView
+            android:id="@+id/how_to_play3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/instructions_3"
+            android:textSize="@dimen/abc_action_bar_title_text_size" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="10dp" />
+        <TextView
+            android:id="@+id/how_to_play4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/instructions_4"
+            android:textSize="@dimen/abc_action_bar_title_text_size" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="10dp" />
+        <TextView
+            android:id="@+id/how_to_play5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/instructions_5"
+            android:textSize="@dimen/abc_action_bar_title_text_size" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="10dp" />
+        <TextView
+            android:id="@+id/how_to_play6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/instructions_6"
+            android:textSize="@dimen/abc_action_bar_title_text_size" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="10dp" />
+        <TextView
+            android:id="@+id/how_to_play7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/instructions_7"
+            android:textSize="@dimen/abc_action_bar_title_text_size" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="10dp" />
+        <TextView
+            android:id="@+id/how_to_play8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/instructions_8"
+            android:textSize="@dimen/abc_action_bar_title_text_size" />
+</LinearLayout>

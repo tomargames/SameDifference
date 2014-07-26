@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SameDifference</string>
+    <string name="action_how">How to Play</string>
+    <string name="action_how_display">How to Play SameDifference</string>
+    <string name="action_about">About ToMarGames</string>
+    <string name="instructions_1">Each card can be distinguished by color, shape, number, and shading.</string>
+    <string name="instructions_2">Choose 3 cards for which those characteristics are either all the same, or all different.</string>
+    <string name="instructions_3">If two cards are the same shape, they must all 3 be the same shape, or all different shapes.</string>
+    <string name="instructions_4">Use the sort buttons to help you see the patterns.</string>
+    <string name="instructions_5">Sets are worth from 10 to 25 points, depending on how many characteristics are different.</string>
+    <string name="instructions_6">Extra points are also given when there are more than 12 cards to choose from.</string>
+    <string name="instructions_7">Cards are added to the layout until there is at least one set to be found.</string>
+    <string name="instructions_8">Sorts cost 1 point each.</string>
+    <string name="about_1">ToMarGames are open source and free to play.</string>
+    <string name="about_2">Online games, and apps for PC, Mac, and Android.</string>
+    <string name="about_3">All games are coded in Java by marie.</string>
+    <string name="about_4">Visit our website at www.tomargames.com.</string>
+</resources>
